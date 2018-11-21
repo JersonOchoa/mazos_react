@@ -1,0 +1,20 @@
+{
+    "tropas": [
+        {
+            "tropa": "Arquera",
+            "costo": "3"
+        },
+        {
+            "tropa": "Gigante",
+            "costo": "5"
+        },
+        {
+            "tropa": "Bombardero",
+            "costo": "3"
+        },
+        {
+            "tropa": "Duendes con lanza",
+            "costo": "3"
+        }
+    ]
+}

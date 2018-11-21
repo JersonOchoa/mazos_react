@@ -1,0 +1,20 @@
+{
+    "arenas": [
+        {
+            "arena": "Arena 1",
+            "descripcion": "Arena de entrenamiento"
+        },
+        {
+            "arena": "Arena 2",
+            "descripcion": "Arena del duende"
+        },
+        {
+            "arena": "Arena 3",
+            "descripcion": "Arena del mago"
+        },
+        {
+            "arena": "Arena 4",
+            "descripcion": "Arena del montapuerco"
+        }
+    ]
+}

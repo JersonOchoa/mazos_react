@@ -1,0 +1,68 @@
+{
+    "todos": [
+        {
+            "title": "Mazo 1",
+            "arena": "Arena 1",
+            "description": "Ejercito anti tanque",
+            "priority": "Low",
+            "tropas": [
+                {
+                    "tropa": "Arqueras",
+                    "costo": 3
+                },
+                {
+                    "tropa": "Gigante",
+                    "costo": 5
+                }
+            ]
+        },
+        {
+            "title": "Mazo 2",
+            "arena": "Arena 2",
+            "description": "Mazo anti aereo",
+            "priority": "Low",
+            "tropas": [
+                {
+                    "tropa": "Arqueras",
+                    "costo": 3
+                },
+                {
+                    "tropa": "Gigante",
+                    "costo": 5
+                }
+            ]
+        },
+        {
+            "title": "Mazo 3",
+            "arena": "Arena 3",
+            "description": "Mazo anti chozas",
+            "priority": "Low",
+            "tropas": [
+                {
+                    "tropa": "Arqueras",
+                    "costo": 3
+                },
+                {
+                    "tropa": "Gigante",
+                    "costo": 5
+                }
+            ]
+        },
+        {
+            "title": "Mazo 4",
+            "arena": "Arena 4",
+            "description": "Mazo contra magos",
+            "priority": "Low",
+            "tropas": [
+                {
+                    "tropa": "Arqueras",
+                    "costo": 3
+                },
+                {
+                    "tropa": "Gigante",
+                    "costo": 5
+                }
+            ]
+        }
+    ]
+}
